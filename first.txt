@@ -2,3 +2,4 @@ GIT‚Ì—ûK‚ğ‚µ‚Ä‚¢‚«‚Ü‚·B
 TEST
 
 test
+test2
